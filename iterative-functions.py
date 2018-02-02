@@ -1,7 +1,7 @@
 """
 Author: Nikita Sinkha
 Date: 1/31/2018
-File: iterative-fruitful.py
+File: iterative-functions.py
 """
 def gcd(a, b):
     """
